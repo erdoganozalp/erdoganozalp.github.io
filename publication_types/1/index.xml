@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Muhammet Erdogan Ozalp</title>
+    <link>https://erdoganozalp.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Muhammet Erdogan Ozalp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Muhammet Erdogan Ozalp</copyright>
+    <lastBuildDate>Thu, 21 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mevcut CNC Tezgahlarına Uygulanabilir Bio Yazıcı Modül Tasarımı (In Turkish) - Bioprinting Module Design</title>
+      <link>https://erdoganozalp.github.io/publication/bioprint/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/publication/bioprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Öğrenci-Akademisyen Iletişim Modülü (In Turkish) - Communication Panel</title>
+      <link>https://erdoganozalp.github.io/publication/communication-panel/</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/publication/communication-panel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

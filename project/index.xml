@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Muhammet Erdogan Ozalp</title>
+    <link>https://erdoganozalp.github.io/project/</link>
+    <description>Recent content in Projects on Muhammet Erdogan Ozalp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Muhammet Erdogan Ozalp</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bioprinter</title>
+      <link>https://erdoganozalp.github.io/project/bioprinter/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/bioprinter/</guid>
+      <description>&lt;p&gt;The developments on tissue engineering in last 15 years allowed researchers to engineer basic tissues. But using cell seeding method to produce these basic tissues, needs long time to produce and is not effective enough.
+The drop-on-demand cell printing method is accepted as pioneering work in biofabrication techniques. This method allows to position the cells, biomaterials and other required drugs and materials in 2 and 3 dimensional plane as required. In 2003, to make the progress faster and more effective, researchers started to modify the desktop printers for robust deposition of living cells. The method was successfully developed and optimized for better printing until today.
+The aim of this project is to develop the printing module of a bioprinter. A circuit board which is able to control the cartridges with produced output signals was designed. Then, a software was developed to create layers from the input image and control the cartridges using Arduino board. The prototype system successfully printed bovine serum albumin homogeneously.&lt;/p&gt;
+
+&lt;p&gt;The outcome of this project was presented in ICETAS 2016. It can be found &lt;a href=&#34;../../pdf/Bioprinter.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Communication Panel</title>
+      <link>https://erdoganozalp.github.io/project/communication/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/communication/</guid>
+      <description>&lt;p&gt;The aim of the project was to design a compact and low-priced video communication system. To minimize the cost, and make it more accessible, the system was designed to support regular webcams. In 3 months, a communication panel was built, which has an IP-Video streamer without a need of an embedded operating system.&lt;/p&gt;
+
+&lt;p&gt;The publication (In Turkish) presented in TOK 2013 can be found &lt;a href=&#34;../../pdf/Communication_Panel.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Controlling 3 Axis CNC Milling Machine with Inkjet Printer Mainboard</title>
+      <link>https://erdoganozalp.github.io/project/bs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/bs/</guid>
+      <description>&lt;p&gt;The inkjet printers have two axes of movement, one for scrolling of the paper and the other for traveling of the cartridges. To use this accurate and low cost controller card in 3 dimensional systems, a new method was introduced. The third dimension of the part is represented with gray color scale. With a two-dimensional and gray colored drawing of the part, the system is able to produce a workpiece with a single print command.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electromyography Signal Amplifier Design &amp; Signal Processing</title>
+      <link>https://erdoganozalp.github.io/project/emg/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/emg/</guid>
+      <description>&lt;p&gt;Electromyography is the recording of electrical muscle activity, which is activated by motor neurons and the resulting electrical signals produced by the muscle fibers. Produced signals are collected by electrodes placed on the specific muscle. EMG signals are used and integrated within small or even tiny intelligent, automatic, robotic, and mechatronics systems. In this project, we have developed a signal amplification and filtering circuit using an instrumentation amplifier with differential amplification technology and low-pass &amp;amp; high-pass passive filters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motion Detection and Face Recognition Software</title>
+      <link>https://erdoganozalp.github.io/project/face/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/face/</guid>
+      <description>&lt;p&gt;Both motion detection and face recognition, individually, has a wide variety of usage. In this project, we combined both of them to create a video surveillance system.  Euclidean RGB distance approach with threshold was used in sequential images to detect the motions. The detection signal was used as the trigger mechanism to start face detection. Faces in the video were found with Haar-Cascade classifier and recognition was done with eigenface method.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Support Ring Assembly Control</title>
+      <link>https://erdoganozalp.github.io/project/support_ring/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/support_ring/</guid>
+      <description>&lt;p&gt;In 2012, as a part of Robert Bosch Foundation Fellow program, I interned at Bosch Injection Systems site for 4 months. My project was to reduce the support ring assembly loses which was controlled by machine vision system. As a first step, we have done a fishbone analysis and identified the possible failures. After a few days of observation, we have collected the data and analyzed to identify the abnormal conditions. To solve the problem, parameters, control points and approaches were updated. The loses were reduced close to zero.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upper Limb Rehabilitation Robot</title>
+      <link>https://erdoganozalp.github.io/project/rehab_robot/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/rehab_robot/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/LT2okv2FLxg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Developing upper limb rehabilitation robot which provides passive and active exercises for people who can not use their upper limb muscles with full function. I was responsible for the development of electronics, software, and mechanical optimization.&lt;/p&gt;
+
+&lt;p&gt;-Successful concept design took the interest of Turkish Ministry of Science, Industry, and Technology. The company received funding of $55k.&lt;br /&gt;
+-Successfully built a fully functional prototype. Raised public attention and &lt;a href=&#34;https://www.youtube.com/watch?v=LT2okv2FLxg&#34; target=&#34;_blank&#34;&gt;televised&lt;/a&gt; in a tech show on national TV channel.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Location Feedback of Stewart Platform</title>
+      <link>https://erdoganozalp.github.io/project/stewart_vision/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://erdoganozalp.github.io/project/stewart_vision/</guid>
+      <description>&lt;p&gt;The Stewart Platform is a parallel mechanism which has six actuators mounted on a fixed plate and an end effector for spatial motion.Stewart Platforms have applications in various areas such as machining technology, flight simulators, air-to-sea rescue systems, telescopes, crane systems, orthopedic surgery, and so on. Starting in 1987, direct kinematics problem and complexity of Stewart Platforms has drawn the attention of many researchers. In forward kinematics problem, extraction of end effector variables from joint space variables is required to have an acceptable trajectory tracking. Since it doesn’t have an explicit solution, lots of researchers have attempted to find a reliable and rapid method for the real-time applications.
+The aim of this study is to develop a vision-based location feedback system. 3 cameras are placed on the normals of the joints and focused at the center of each marker square. Changes in marker squares are examined and compared with each other to calculate the position and orientation of the platform, and the length of the links. This project was a great experience to put the theory into practice.&lt;/p&gt;
+
+&lt;p&gt;Reference Publication : &lt;a href=&#34;http://journals.tubitak.gov.tr/elektrik/issues/elk-11-19-5/elk-19-5-6-1007-600.pdf&#34; target=&#34;_blank&#34;&gt;http://journals.tubitak.gov.tr/elektrik/issues/elk-11-19-5/elk-19-5-6-1007-600.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
